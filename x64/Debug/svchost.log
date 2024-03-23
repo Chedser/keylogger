@@ -1,0 +1,3 @@
+﻿  svchost.cpp
+C:\Users\DNS\source\repos\svchost\svchost.cpp(43,139): warning C4114: same type qualifier used more than once
+  svchost.vcxproj -> C:\Users\DNS\source\repos\svchost\x64\Debug\svchost.exe
